@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olabisi
-- 👀 I’m interested in backend and frontend projects
+
 
 
 <!---
